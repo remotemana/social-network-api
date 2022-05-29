@@ -1,6 +1,7 @@
 const {
     Thought,
-    User
+    User, 
+    Reactions
 } = require('../models');
 
 module.exports = {
